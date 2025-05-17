@@ -1,21 +1,4 @@
-# README
+1. I dont need any changes on readme file
+2. if any changes made push to origin
+3. All changes made by Ismail Hossain Fahim
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
