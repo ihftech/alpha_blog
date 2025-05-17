@@ -1,0 +1,30 @@
+.navbar {
+    background-color: black !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#logo{
+    float: left;
+    font-size: 1.7em;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+
+#home-container{
+    margin-top: 25px;
+}
+
+#home-container .card{
+    background-image: asset-url('alpha.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
